@@ -6,12 +6,11 @@ Now seeking employment, I'm looking for a role in an agile environment that will
 
 ## Projects
 
-| Title                                            | Description   | Stack                      | Team Size  | Days  |
-| ------------------------------------------------:| -------------:| --------------------------:| ----------:| -----:|
-| [MakersBnB](https://github.com/IainDK/makersbnb) | AirBNB Clone  | Ruby, Sinatra, PostgreSQL,
-                                                                     RSpec, Capybara, HTML, CSS | 6          | 5     |
-| col 2 is                                         | centered      |   $12                      |            |       |
-| zebra stripes are neat                           |    $1         |                            |            |       |
+| Title | Description | Stack | Team Size | Days |
+| --- | --- | --- | --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+| Test | Test |
 
 ## Skills
 
