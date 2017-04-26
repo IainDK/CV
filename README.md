@@ -4,13 +4,14 @@ I'm a Junior Full-Stack Developer who previously worked as an Insurance Broker. 
 
 Now seeking employment, I'm looking for a role in an agile environment that will allow me to further develop the skills I acquired while studying at Makers. I consider myself to be tech agnostic; capable of picking up new languages in a short period of time. As such, I would be happy in a role that either takes advantage of the languages I am already comfortable with - i.e. Ruby and JavaScript - or grants me the opportunity to learn a brand new language and stack.
 
-## Projects 
+## Projects
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Title                                            | Description   | Stack                      | Team Size  | Days  |
+| ------------------------------------------------:| -------------:| --------------------------:| ----------:| -----:|
+| [MakersBnB](https://github.com/IainDK/makersbnb) | AirBNB Clone  | Ruby, Sinatra, PostgreSQL,
+                                                                     RSpec, Capybara, HTML, CSS | 6          | 5     |
+| col 2 is                                         | centered      |   $12                      |            |       |
+| zebra stripes are neat                           |    $1         |                            |            |       |
 
 ## Skills
 
