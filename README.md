@@ -2,7 +2,7 @@
 
 I'm a Junior Full-Stack Developer who previously worked as an Insurance Broker. I recently graduated from Makers Academy, where I learned how to write clean, test-driven code that follows SOLID principles.
 
-Now seeking employment, I'm looking for a role in an agile environment that will allow me to further develop the skills I acquired while studying at Makers. I consider myself to be tech agnostic; capable of picking up new languages in a short period of time. As such, I would be happy in a role that either takes advantage of the technologies I am already comfortable with - i.e. Ruby and JavaScript - or grants me the opportunity to learn a brand new language and stack.
+Now seeking employment, I'm looking for a role in an agile environment that will allow me to further develop the skills I acquired while studying at Makers. I consider myself to be tech agnostic; capable of picking up new languages in a short period of time. I would be happy in a role that either takes advantage of the technologies I am already comfortable with - i.e. Ruby and JavaScript - or grants me the opportunity to learn a brand new language and stack.
 
 ## Projects
 
@@ -56,3 +56,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Granite Underwriting - a trading name of Acorn Insurance and Financial Services Limited - is the UK agent for HAVEN insurance. Specialising at the non-conventional end of the motoring market, Granite's primary interest lies in insuring those with an unfavourable driving history.
 
 Working as part of a medium-sized team, my main focus was to help further develop Granite's renewal department. This was achieved by reviewing risks and innovating new ways to increase the retention rate. Day-to-day responsibilities included working directly with the underwriter to help set competitive renewal rates, selling insurance policies to other brokers, and advising junior members of staff on a range of topics.
+
+- Achieved rapid career progression from my initial role as a junior sales agent.
+- Helped the company break their highest ever retention rate multiple times.
+- One of a small group of people selected to operate the HAVEN line, a line dedicated to dealing with a broad range of topics, including complaints and fraudulent activity.
+- Best closing ratio out of a team of 15.
+- Studied for and passed my CII qualification.
