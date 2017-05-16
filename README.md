@@ -14,22 +14,21 @@ Now seeking employment, I'm looking for a role in an agile environment that will
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I pride myself on the ability to communicate information in a clear and concise manner. I am also a great listener, which I believe to be equally as important. My previous job involved me training and assisting junior members of staff, breaking down complex insurance principles in a way that made the information easy to understand. I also had the best closing ratio out of a team of 15, evidencing my ability to interact with a wide range of personalities. In addition, most of my time at Makers Academy was spent pair programming, which helped to dramatically improve the way I communicated with others when discussing code.
 
-- Experience
-- Achievements
-- Evidence
+#### Learning Agility
 
-#### Another Skill
+I am an agile learner capable of picking up new skills in a short period of time. This was demonstrated during my time at Makers, where I learned the fundamentals of software craftsmanship in just 16 weeks. My swift career progression from junior sales agent to senior insurance broker during my previous employment is further evidence of this.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Analytical Thinking / Problem Solving
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I love to solve problems in creative ways. The challenge of having to produce an effective solution when faced with a difficult task is something that I enjoy immensely. I also consider myself to be an extremely logical person, and the favourite aspect of my old job was having to review and analyse risks.
+
+#### Independent Learning
+
+I have a real appetite for knowledge. I am constantly curious, and spend a large portion of my time learning about new technologies. Prior to enrolling at Makers, I had already began teaching myself basic programming concepts. I like to try and learn something new every single day.
 
 ## Education
 
@@ -40,12 +39,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - OOP, TDD, SOLID, MVC, Agile, Git
 - Software Craftsmanship
 - Ruby, Rails, Sinatra, Javascript, PostgreSQL, HTML, CSS, BootStrap
-- RSpec, Capybara, Jasmine, Mocha
+- RSpec, Capybara, Jasmine
 
 #### Additional Qualifications
 
-- Studied Forensic Science at College [D/M/M]
-- GCSE's in all core subjects at grades B-C.
+- Studied Forensic Science at Southport College [D/M/M]
+- GCSE's in all core subjects at grades B-C
 - CII Qualified [Insurance]
 
 ## Experience
@@ -57,8 +56,12 @@ Granite Underwriting - a trading name of Acorn Insurance and Financial Services 
 
 Working as part of a medium-sized team, my main focus was to help further develop Granite's renewal department. This was achieved by reviewing risks and innovating new ways to increase the retention rate. Day-to-day responsibilities included working directly with the underwriter to help set competitive renewal rates, selling insurance policies to other brokers, and advising junior members of staff on a range of topics.
 
+- Studied for and passed my CII qualification.
 - Achieved rapid career progression from my initial role as a junior sales agent.
 - Helped the company break their highest ever retention rate multiple times.
-- One of a small group of people selected to operate the HAVEN line, a line dedicated to dealing with a broad range of topics, including complaints and fraudulent activity.
 - Best closing ratio out of a team of 15.
-- Studied for and passed my CII qualification.
+- Provided IT support for my team.
+
+## Interests
+
+Tech, finance, eSports, traveling and football. I'm also an avid film fan, watching over 70 films in cinema each year alone.
