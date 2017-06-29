@@ -64,4 +64,4 @@ Working as part of a medium-sized team, my main focus was to help further develo
 
 ## Interests
 
-Tech, finance, eSports, traveling and football. I'm also an avid film fan, watching over 70 films in cinema each year alone.
+Tech, finance, eSports, movies, music, traveling and football.
