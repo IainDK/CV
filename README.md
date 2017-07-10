@@ -8,9 +8,9 @@ Now seeking employment, I'm looking for a role in an agile environment that will
 
 | Title | Description | Stack | Team Size | Days |
 | :---: | :---: | :---: | :---: | :---: |
-| [CatHub](https://github.com/crispinandrews/CatHub) | Facebook, but for cats! | Ruby, Ruby on Rails, PostgreSQL, RSpec, Capybara, JavaScript, HTML, CSS, BootStrap | 6 | 5 |
+| [CatHub](https://github.com/IainDK/CatHub) | Facebook, but for cats! | Ruby, Ruby on Rails, PostgreSQL, RSpec, Capybara, JavaScript, HTML, CSS, BootStrap | 6 | 5 |
 | [MakersBnB](https://github.com/IainDK/makersbnb) | AirBNB Clone | Ruby, Sinatra, PostgreSQL, RSpec, Capybara, HTML, CSS | 6 | 5 |
-| [RPS](https://github.com/IainDK/RPS) | RPS Game | Ruby, Sinatra, PostgreSQL, RSpec, Capybara, HTML, CSS | 1 | N/A |
+| [RPS](https://github.com/IainDK/RPS) | RPS Game | Ruby, Sinatra, PostgreSQL, RSpec, Capybara, HTML, CSS | 1 | 4 |
 
 ## Skills
 
