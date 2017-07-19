@@ -11,6 +11,7 @@ Now seeking employment, I'm looking for a role in an agile environment that will
 | [CatHub](https://github.com/IainDK/CatHub) | Facebook, but for cats! | Ruby, Ruby on Rails, PostgreSQL, RSpec, Capybara, JavaScript, HTML, CSS, BootStrap | 6 | 5 |
 | [MakersBnB](https://github.com/IainDK/makersbnb) | AirBNB Clone | Ruby, Sinatra, PostgreSQL, RSpec, Capybara, HTML, CSS | 6 | 5 |
 | [RPS](https://github.com/IainDK/RPS) | RPS Game | Ruby, Sinatra, PostgreSQL, RSpec, Capybara, HTML, CSS | 1 | 4 |
+| [CrowdMarket](https://github.com/IainDK/crowd_market) | e-Commerce/Social Media Hybrid | Ruby, Ruby on Rails, JavaScript, PostgreSQL, RSpec, Capybara, HTML, CSS, BootStrap | 4 | 10 |
 
 ## Skills
 
